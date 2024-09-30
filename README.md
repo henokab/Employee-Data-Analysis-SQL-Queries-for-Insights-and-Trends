@@ -1,0 +1,1 @@
+# Employee-Data-Analysis-SQL-Queries-for-Insights-and-Trends
